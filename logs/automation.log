@@ -1,52 +1,75 @@
-2024-11-19 14:34:56 INFO  TC_01_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest  ****
-2024-11-19 14:34:56 INFO  TC_01_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
-2024-11-19 14:34:57 INFO  TC_01_AccountRegistrationTest:23 - Clicked on Register Link.. 
-2024-11-19 14:34:57 INFO  TC_01_AccountRegistrationTest:28 - Providing customer details...
-2024-11-19 14:34:58 INFO  TC_01_AccountRegistrationTest:41 - Validating expected message..
-2024-11-19 14:34:58 INFO  TC_01_AccountRegistrationTest:46 - Test passed
-2024-11-19 14:34:58 INFO  TC_01_AccountRegistrationTest:54 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-19 14:35:01 INFO  TC_02_LoginTest:15 - **** Starting TC_002_LoginTest  ****
-2024-11-19 14:35:02 INFO  TC_02_LoginTest:21 - clicked on myaccount link on the home page..
-2024-11-19 14:35:02 INFO  TC_02_LoginTest:23 - clicked on login link under myaccount..
-2024-11-19 14:35:02 INFO  TC_02_LoginTest:27 - Entering valid email and password..
-2024-11-19 14:35:04 INFO  TC_02_LoginTest:31 - clicked on ligin button..
-2024-11-19 14:35:04 INFO  TC_02_LoginTest:40 - **** Finished TC_002_LoginTest  ****
-2024-11-19 14:36:29 INFO  TC_01_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest  ****
-2024-11-19 14:36:29 INFO  TC_01_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
-2024-11-19 14:36:30 INFO  TC_01_AccountRegistrationTest:23 - Clicked on Register Link.. 
-2024-11-19 14:36:30 INFO  TC_01_AccountRegistrationTest:28 - Providing customer details...
-2024-11-19 14:36:31 INFO  TC_01_AccountRegistrationTest:41 - Validating expected message..
-2024-11-19 14:36:31 INFO  TC_01_AccountRegistrationTest:46 - Test passed
-2024-11-19 14:36:31 INFO  TC_01_AccountRegistrationTest:54 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-19 14:36:33 INFO  TC_02_LoginTest:15 - **** Starting TC_002_LoginTest  ****
-2024-11-19 14:36:33 INFO  TC_02_LoginTest:21 - clicked on myaccount link on the home page..
-2024-11-19 14:36:33 INFO  TC_02_LoginTest:23 - clicked on login link under myaccount..
-2024-11-19 14:36:33 INFO  TC_02_LoginTest:27 - Entering valid email and password..
-2024-11-19 14:36:34 INFO  TC_02_LoginTest:31 - clicked on ligin button..
-2024-11-19 14:36:34 INFO  TC_02_LoginTest:40 - **** Finished TC_002_LoginTest  ****
-2024-11-19 15:14:59 INFO  TC_01_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest  ****
-2024-11-19 15:15:00 INFO  TC_01_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
-2024-11-19 15:15:00 INFO  TC_01_AccountRegistrationTest:23 - Clicked on Register Link.. 
-2024-11-19 15:15:00 INFO  TC_01_AccountRegistrationTest:28 - Providing customer details...
-2024-11-19 15:15:01 INFO  TC_01_AccountRegistrationTest:41 - Validating expected message..
-2024-11-19 15:15:01 INFO  TC_01_AccountRegistrationTest:46 - Test passed
-2024-11-19 15:15:01 INFO  TC_01_AccountRegistrationTest:54 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-19 15:15:04 INFO  TC_02_LoginTest:15 - **** Starting TC_002_LoginTest  ****
-2024-11-19 15:15:04 INFO  TC_02_LoginTest:21 - clicked on myaccount link on the home page..
-2024-11-19 15:15:05 INFO  TC_02_LoginTest:23 - clicked on login link under myaccount..
-2024-11-19 15:15:05 INFO  TC_02_LoginTest:27 - Entering valid email and password..
-2024-11-19 15:15:07 INFO  TC_02_LoginTest:31 - clicked on ligin button..
-2024-11-19 15:15:07 INFO  TC_02_LoginTest:40 - **** Finished TC_002_LoginTest  ****
-2024-11-19 15:19:46 INFO  TC_01_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest  ****
-2024-11-19 15:19:47 INFO  TC_01_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
-2024-11-19 15:19:47 INFO  TC_01_AccountRegistrationTest:23 - Clicked on Register Link.. 
-2024-11-19 15:19:47 INFO  TC_01_AccountRegistrationTest:28 - Providing customer details...
-2024-11-19 15:19:48 INFO  TC_01_AccountRegistrationTest:41 - Validating expected message..
-2024-11-19 15:19:48 INFO  TC_01_AccountRegistrationTest:46 - Test passed
-2024-11-19 15:19:48 INFO  TC_01_AccountRegistrationTest:54 - ***** Finished TC001_AccountRegistrationTest *****
-2024-11-19 15:19:50 INFO  TC_02_LoginTest:15 - **** Starting TC_002_LoginTest  ****
-2024-11-19 15:19:50 INFO  TC_02_LoginTest:21 - clicked on myaccount link on the home page..
-2024-11-19 15:19:50 INFO  TC_02_LoginTest:23 - clicked on login link under myaccount..
-2024-11-19 15:19:50 INFO  TC_02_LoginTest:27 - Entering valid email and password..
-2024-11-19 15:19:50 INFO  TC_02_LoginTest:31 - clicked on ligin button..
-2024-11-19 15:19:50 INFO  TC_02_LoginTest:40 - **** Finished TC_002_LoginTest  ****
+2024-12-01 17:18:11 INFO  TC_04_SearchProduct:15 - ******TC_04_SearchProduct starting*******
+2024-12-01 17:18:12 INFO  TC_04_SearchProduct:19 - Passing the Product name in Search Textbox
+2024-12-01 17:18:12 INFO  TC_04_SearchProduct:22 - click on the search button
+2024-12-01 17:20:42 INFO  TC_04_SearchProduct:15 - ******TC_04_SearchProduct starting*******
+2024-12-01 17:20:42 INFO  TC_04_SearchProduct:19 - Passing the Product name in Search Textbox
+2024-12-01 17:20:42 INFO  TC_04_SearchProduct:22 - click on the search button
+2024-12-01 17:25:35 INFO  TC_04_SearchProduct:15 - ******TC_04_SearchProduct starting*******
+2024-12-01 17:25:40 INFO  TC_04_SearchProduct:20 - Passing the Product name in Search Textbox
+2024-12-01 17:25:40 INFO  TC_04_SearchProduct:23 - click on the search button
+2024-12-01 17:26:40 INFO  TC_04_SearchProduct:15 - ******TC_04_SearchProduct starting*******
+2024-12-01 17:26:46 INFO  TC_04_SearchProduct:20 - Passing the Product name in Search Textbox
+2024-12-01 17:26:46 INFO  TC_04_SearchProduct:23 - click on the search button
+2024-12-01 17:28:00 INFO  TC_04_SearchProduct:15 - ******TC_04_SearchProduct starting*******
+2024-12-01 17:28:06 INFO  TC_04_SearchProduct:20 - Passing the Product name in Search Textbox
+2024-12-01 17:28:06 INFO  TC_04_SearchProduct:23 - click on the search button
+2024-12-01 18:17:36 INFO  TC_04_SearchProduct:15 - ******TC_04_SearchProduct starting*******
+2024-12-01 18:17:36 INFO  TC_04_SearchProduct:20 - Passing the Product name in Search Textbox
+2024-12-01 18:17:36 INFO  TC_04_SearchProduct:23 - click on the search button
+2024-12-01 18:19:41 INFO  TC_04_SearchProduct:15 - ******TC_04_SearchProduct starting*******
+2024-12-01 18:19:41 INFO  TC_04_SearchProduct:20 - Passing the Product name in Search Textbox
+2024-12-01 18:19:41 INFO  TC_04_SearchProduct:23 - click on the search button
+2024-12-01 18:25:31 INFO  TC_04_SearchProduct:15 - ******TC_04_SearchProduct starting*******
+2024-12-01 18:25:31 INFO  TC_04_SearchProduct:20 - Passing the Product name in Search Textbox
+2024-12-01 18:25:31 INFO  TC_04_SearchProduct:23 - click on the search button
+2024-12-01 18:43:18 INFO  TC_04_SearchProduct:15 - ******TC_04_SearchProduct starting*******
+2024-12-01 18:43:18 INFO  TC_04_SearchProduct:20 - Passing the Product name in Search Textbox
+2024-12-01 18:43:18 INFO  TC_04_SearchProduct:23 - click on the search button
+2024-12-01 18:48:04 INFO  TC_04_SearchProduct:15 - ******TC_04_SearchProduct starting*******
+2024-12-01 18:48:04 INFO  TC_04_SearchProduct:20 - Passing the Product name in Search Textbox
+2024-12-01 18:48:04 INFO  TC_04_SearchProduct:23 - click on the search button
+2024-12-01 18:48:04 INFO  TC_04_SearchProduct:32 - *****TC_04_SearchProduct Ending*******
+2024-12-01 18:52:01 INFO  TC_04_SearchProduct:15 - ******TC_04_SearchProduct starting*******
+2024-12-01 18:52:02 INFO  TC_04_SearchProduct:20 - Passing the Product name in Search Textbox
+2024-12-01 18:52:02 INFO  TC_04_SearchProduct:23 - click on the search button
+2024-12-01 18:52:02 INFO  TC_04_SearchProduct:32 - *****TC_04_SearchProduct Ending*******
+2024-12-01 18:55:37 INFO  TC_04_SearchProduct:15 - ******TC_04_SearchProduct starting*******
+2024-12-01 18:55:37 INFO  TC_04_SearchProduct:20 - Passing the Product name in Search Textbox
+2024-12-01 18:55:38 INFO  TC_04_SearchProduct:23 - click on the search button
+2024-12-01 18:55:38 INFO  TC_04_SearchProduct:32 - *****TC_04_SearchProduct Ending*******
+2024-12-01 19:42:12 INFO  TC_05_ProductAddToCart:15 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 19:44:59 INFO  TC_05_ProductAddToCart:15 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 19:53:39 INFO  TC_05_ProductAddToCart:15 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 20:01:56 INFO  TC_05_ProductAddToCart:15 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 20:02:51 INFO  TC_05_ProductAddToCart:15 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 20:07:17 INFO  TC_05_ProductAddToCart:15 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 20:09:05 INFO  TC_05_ProductAddToCart:15 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 21:51:49 INFO  TC_05_ProductAddToCart:15 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 21:52:54 INFO  TC_04_SearchProduct:15 - ******TC_04_SearchProduct starting*******
+2024-12-01 21:52:54 INFO  TC_04_SearchProduct:20 - Passing the Product name in Search Textbox
+2024-12-01 21:52:55 INFO  TC_04_SearchProduct:23 - click on the search button
+2024-12-01 21:52:55 INFO  TC_04_SearchProduct:32 - *****TC_04_SearchProduct Ending*******
+2024-12-01 21:57:32 INFO  TC_05_ProductAddToCart:15 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 21:59:45 INFO  TC_05_ProductAddToCart:15 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 22:03:45 INFO  TC_04_SearchProduct:15 - ******TC_04_SearchProduct starting*******
+2024-12-01 22:03:45 INFO  TC_04_SearchProduct:20 - Passing the Product name in Search Textbox
+2024-12-01 22:03:46 INFO  TC_04_SearchProduct:23 - click on the search button
+2024-12-01 22:03:46 INFO  TC_04_SearchProduct:32 - *****TC_04_SearchProduct Ending*******
+2024-12-01 22:10:10 INFO  TC_05_ProductAddToCart:15 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 22:20:10 INFO  TC_05_ProductAddToCart:15 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 22:21:14 INFO  TC_04_SearchProduct:15 - ******TC_04_SearchProduct starting*******
+2024-12-01 22:21:14 INFO  TC_04_SearchProduct:20 - Passing the Product name in Search Textbox
+2024-12-01 22:21:15 INFO  TC_04_SearchProduct:23 - click on the search button
+2024-12-01 22:21:15 INFO  TC_04_SearchProduct:32 - *****TC_04_SearchProduct Ending*******
+2024-12-01 22:24:12 INFO  TC_05_ProductAddToCart:15 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 22:28:57 INFO  TC_05_ProductAddToCart:15 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 22:45:15 INFO  TC_05_ProductAddToCart:15 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 23:07:06 INFO  TC_05_ProductAddToCart:14 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 23:09:44 INFO  TC_05_ProductAddToCart:14 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 23:10:27 INFO  TC_05_ProductAddToCart:14 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 23:18:46 INFO  TC_05_ProductAddToCart:14 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 23:20:34 INFO  TC_05_ProductAddToCart:14 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 23:21:46 INFO  TC_05_ProductAddToCart:14 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 23:21:47 INFO  TC_05_ProductAddToCart:34 - ***********TC_05_ProductAddToCart Ending**********
+2024-12-01 23:27:06 INFO  TC_05_ProductAddToCart:15 - ******TC_05_ProductAddToCart Starting********
+2024-12-01 23:27:07 INFO  TC_05_ProductAddToCart:35 - ***********TC_05_ProductAddToCart Ending**********
