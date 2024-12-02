@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-01T23:27:02 IST" name="Suite" finished-at="2024-12-01T23:27:08 IST" duration-ms="5707">
+  <suite started-at="2024-12-02T00:13:08 IST" name="Suite" finished-at="2024-12-02T00:13:15 IST" duration-ms="7013">
     <groups>
     </groups>
-    <test started-at="2024-12-01T23:27:02 IST" name="Test" finished-at="2024-12-01T23:27:08 IST" duration-ms="5707">
-      <class name="testCases.TC_05_ProductAddToCart">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_05_ProductAddToCart@290222c1]" started-at="2024-12-01T23:27:02 IST" name="setUp" finished-at="2024-12-01T23:27:05 IST" duration-ms="3418" status="PASS">
+    <test started-at="2024-12-02T00:13:08 IST" name="Test" finished-at="2024-12-02T00:13:15 IST" duration-ms="7013">
+      <class name="testCases.TC_06_ProductAddToWishList">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_06_ProductAddToWishList@290222c1]" started-at="2024-12-02T00:13:08 IST" name="setUp" finished-at="2024-12-02T00:13:13 IST" duration-ms="5073" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verify_ProductAddToCart()[pri:0, instance:testCases.TC_05_ProductAddToCart@290222c1]" started-at="2024-12-01T23:27:05 IST" name="verify_ProductAddToCart" finished-at="2024-12-01T23:27:07 IST" duration-ms="1808" status="PASS">
+        <test-method signature="verify_ProductAddToWishList()[pri:0, instance:testCases.TC_06_ProductAddToWishList@290222c1]" started-at="2024-12-02T00:13:13 IST" name="verify_ProductAddToWishList" finished-at="2024-12-02T00:13:14 IST" duration-ms="1558" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verify_ProductAddToCart -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_05_ProductAddToCart@290222c1]" started-at="2024-12-01T23:27:07 IST" name="tearDown" finished-at="2024-12-01T23:27:08 IST" duration-ms="191" status="PASS">
+        </test-method> <!-- verify_ProductAddToWishList -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_06_ProductAddToWishList@290222c1]" started-at="2024-12-02T00:13:14 IST" name="tearDown" finished-at="2024-12-02T00:13:15 IST" duration-ms="178" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_05_ProductAddToCart -->
+      </class> <!-- testCases.TC_06_ProductAddToWishList -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

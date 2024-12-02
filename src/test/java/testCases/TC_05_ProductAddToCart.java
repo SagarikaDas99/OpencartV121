@@ -11,7 +11,7 @@ import testBase.BaseClass;
 public class TC_05_ProductAddToCart extends BaseClass{
 	
 	@Test()
-	public void verify_ProductAddToCart() {
+	public void verify_ProductAddToCart()throws InterruptedException {
 		logger.info("******TC_05_ProductAddToCart Starting********");
 		try {
 		HomePage hp=new HomePage(driver);

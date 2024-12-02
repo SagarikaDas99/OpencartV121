@@ -20,6 +20,12 @@ public class ProductPage extends BasePage{
 	@FindBy(xpath = "//div[contains(text(),'Success: You have added' )]")
 	WebElement cfnmsg;
 	
+	@FindBy(xpath="//button[@data-original-title='Add to Wish List']")
+	WebElement btnWish;
+	
+	@FindBy(xpath="//div[@class='alert alert-success alert-dismissible']")
+	WebElement wishmsg;
+	
 	//Action
 	public void setQuantity(String qty) {
 		txtquantity.clear();
@@ -33,6 +39,18 @@ public class ProductPage extends BasePage{
 	public boolean checkMessage() {
 		try {
 			return cfnmsg.isDisplayed();
+		} catch (Exception e) {
+			return false;
+		}
+	}
+	
+	public void addWishList() {
+		btnWish.click();
+	}
+	
+	public boolean wishMessage() {
+		try {
+			return wishmsg.isDisplayed();
 		} catch (Exception e) {
 			return false;
 		}

@@ -13,7 +13,8 @@
      <!-- <class name="testCases.TC_01_AccountRegistrationTest"/>-->
      <!-- <class name="testCases.TC_02_LoginTest"/>-->
      <!--<class name="testCases.TC_04_SearchProduct"></class>-->
-     <class name="testCases.TC_05_ProductAddToCart"></class>
+     <!--<class name="testCases.TC_05_ProductAddToCart"></class>-->
+     <class name="testCases.TC_06_ProductAddToWishList"></class>
      <!-- <class name="testCases.TC_03_LoginDDT"/>-->
     </classes>
   </test> <!-- Test -->
