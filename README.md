@@ -12,7 +12,7 @@ API Testing
 
 Tools:-
 Github
-Jankins
+Jenkins
 Postman
 
 Author:-
