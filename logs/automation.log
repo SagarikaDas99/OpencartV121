@@ -1,1 +1,7 @@
-2024-12-02 00:13:13 INFO  TC_06_ProductAddToWishList:16 - *******TC_06_ProductAddToWishList Starting********
+2026-02-05 13:22:09 INFO  TC_01_AccountRegistrationTest:14 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-02-05 13:22:09 INFO  TC_01_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
+2026-02-05 13:22:10 INFO  TC_01_AccountRegistrationTest:23 - Clicked on Register Link.. 
+2026-02-05 13:22:10 INFO  TC_01_AccountRegistrationTest:28 - Providing customer details...
+2026-02-05 13:22:12 INFO  TC_01_AccountRegistrationTest:41 - Validating expected message..
+2026-02-05 13:22:12 INFO  TC_01_AccountRegistrationTest:46 - Test passed
+2026-02-05 13:22:12 INFO  TC_01_AccountRegistrationTest:54 - ***** Finished TC001_AccountRegistrationTest *****

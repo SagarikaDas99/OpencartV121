@@ -5,9 +5,9 @@
     <classes>
       <class name="testCases.TC_01_AccountRegistrationTest">
         <methods>
+          <include name="tearDown"/>
           <include name="verify_AccountRegister"/>
           <include name="setUp"/>
-          <include name="tearDown"/>
         </methods>
       </class> <!-- testCases.TC_01_AccountRegistrationTest -->
     </classes>

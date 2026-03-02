@@ -2,12 +2,18 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-02T00:13:08 IST" name="Suite" finished-at="2024-12-02T00:13:15 IST" duration-ms="7013">
+  <suite started-at="2026-02-05T13:21:59 IST" name="Default suite" finished-at="2026-02-05T13:22:13 IST" duration-ms="14089">
     <groups>
+      <group name="Master">
+        <method signature="TC_01_AccountRegistrationTest.verify_AccountRegister()[pri:0, instance:testCases.TC_01_AccountRegistrationTest@23c30a20]" name="verify_AccountRegister" class="testCases.TC_01_AccountRegistrationTest"/>
+      </group> <!-- Master -->
+      <group name="Regression">
+        <method signature="TC_01_AccountRegistrationTest.verify_AccountRegister()[pri:0, instance:testCases.TC_01_AccountRegistrationTest@23c30a20]" name="verify_AccountRegister" class="testCases.TC_01_AccountRegistrationTest"/>
+      </group> <!-- Regression -->
     </groups>
-    <test started-at="2024-12-02T00:13:08 IST" name="Test" finished-at="2024-12-02T00:13:15 IST" duration-ms="7013">
-      <class name="testCases.TC_06_ProductAddToWishList">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_06_ProductAddToWishList@290222c1]" started-at="2024-12-02T00:13:08 IST" name="setUp" finished-at="2024-12-02T00:13:13 IST" duration-ms="5073" status="PASS">
+    <test started-at="2026-02-05T13:21:59 IST" name="Default test" finished-at="2026-02-05T13:22:13 IST" duration-ms="14089">
+      <class name="testCases.TC_01_AccountRegistrationTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_01_AccountRegistrationTest@23c30a20]" started-at="2026-02-05T13:21:59 IST" name="setUp" finished-at="2026-02-05T13:22:09 IST" duration-ms="10322" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +24,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verify_ProductAddToWishList()[pri:0, instance:testCases.TC_06_ProductAddToWishList@290222c1]" started-at="2024-12-02T00:13:13 IST" name="verify_ProductAddToWishList" finished-at="2024-12-02T00:13:14 IST" duration-ms="1558" status="PASS">
+        <test-method signature="verify_AccountRegister()[pri:0, instance:testCases.TC_01_AccountRegistrationTest@23c30a20]" started-at="2026-02-05T13:22:09 IST" name="verify_AccountRegister" finished-at="2026-02-05T13:22:12 IST" duration-ms="2866" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verify_ProductAddToWishList -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_06_ProductAddToWishList@290222c1]" started-at="2024-12-02T00:13:14 IST" name="tearDown" finished-at="2024-12-02T00:13:15 IST" duration-ms="178" status="PASS">
+        </test-method> <!-- verify_AccountRegister -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_01_AccountRegistrationTest@23c30a20]" started-at="2026-02-05T13:22:12 IST" name="tearDown" finished-at="2026-02-05T13:22:13 IST" duration-ms="825" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_06_ProductAddToWishList -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+      </class> <!-- testCases.TC_01_AccountRegistrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

@@ -20,6 +20,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 //import io.github.bonigarcia.wdm.WebDriverManager;
@@ -28,9 +29,10 @@ public class BaseClass {
 	public Logger logger;// for Logging
 	public static WebDriver driver;// make it static so that you can use same instance in Extent report manager
 	public Properties p;
+	
 	@BeforeClass(groups = { "Sanity", "Regression", "Master" })
 	@Parameters("browser")
-	public void setUp(String br) throws IOException {
+	public void setUp(@Optional("chrome")String browser) throws IOException {
 		
 		//loading properties file
 		 FileReader file=new FileReader(".//src//test//resources//config.properties");
@@ -39,7 +41,7 @@ public class BaseClass {
 
 		logger = LogManager.getLogger(this.getClass());// For Logger (Log4j)
 
-		switch (br.toLowerCase()) {
+		switch (browser.toLowerCase()) {
 		case "chrome":
 			driver = new ChromeDriver();
 			break;
